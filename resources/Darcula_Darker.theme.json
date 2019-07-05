@@ -1,0 +1,29 @@
+{
+  "name": "Darcula Darker",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/Darcula_Darker.xml",
+  "ui": {
+    "*": {
+      "background": "#2d2e30",
+      "disabledBackground": "#292a2c",
+      "inactiveBackground": "#313234",
+
+      "selectionBackground": "#2f65ca",
+      "selectionInactiveBackground": "#2D384C",
+
+      "lightSelectionBackground": "#393a3d",
+      "lightSelectionInactiveBackground": "#2f3033",
+
+      "borderColor": "#3e3f42",
+      "disabledBorderColor": "#3c3d40",
+
+      "focusColor": "#2E3D5A",
+      "focusedBorderColor": "#2F65CA",
+
+      "separatorForeground": "#434548",
+      "separatorColor": "#434548",
+      "lineSeparatorColor": "#434548"
+    }
+  }
+}
