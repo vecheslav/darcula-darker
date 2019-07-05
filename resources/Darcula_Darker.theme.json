@@ -1,13 +1,13 @@
 {
   "name": "Darcula Darker",
   "dark": true,
-  "author": "",
+  "author": "Vecheslav Druzhbin",
   "editorScheme": "/Darcula_Darker.xml",
   "ui": {
     "*": {
-      "background": "#2d2e30",
-      "disabledBackground": "#292a2c",
-      "inactiveBackground": "#313234",
+      "background": "#2f3032",
+      "disabledBackground": "#2F3032",
+      "inactiveBackground": "#333436",
 
       "selectionBackground": "#2f65ca",
       "selectionInactiveBackground": "#2D384C",
@@ -15,15 +15,32 @@
       "lightSelectionBackground": "#393a3d",
       "lightSelectionInactiveBackground": "#2f3033",
 
-      "borderColor": "#3e3f42",
-      "disabledBorderColor": "#3c3d40",
+      "borderColor": "#414245",
+      "disabledBorderColor": "#333336",
 
-      "focusColor": "#2E3D5A",
-      "focusedBorderColor": "#2F65CA",
+      "separatorForeground": "#414245",
+      "separatorColor": "#414245",
+      "lineSeparatorColor": "#414245"
+    },
 
-      "separatorForeground": "#434548",
-      "separatorColor": "#434548",
-      "lineSeparatorColor": "#434548"
+    "Borders": {
+      "color": "#414245",
+      "ContrastBorderColor": "#414245"
+    },
+
+    "Tree.rowHeight": 20,
+
+    "VersionControl": {
+      "Log.Commit": {
+        "currentBranchBackground": "#2E3D5A",
+        "unmatchedForeground": "#727380"
+      },
+      "FileHistory.Commit.selectedBranchBackground": "#2E3D5A"
+    },
+
+    "EditorTabs": {
+      "selectedBackground": "#37383b",
+      "inactiveMaskColor": "#00000033"
     }
   }
 }
