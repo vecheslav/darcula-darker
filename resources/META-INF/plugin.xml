@@ -6,10 +6,25 @@
 
   <description><![CDATA[
       A dark theme based on Darcula, but with more contrasting tones. For JetBrains IDEs, version 2019.1 and above.
+      <br/><br/>
+
+      To install:
+      <ul>
+      <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+      <li>Restart IDE</li>
+      <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+      </ul>
+      <br/>
+      <a href="https://github.com/vecheslav/darcula-darker/issues">Report an issue</a>  |  <a href="https://github.com/vecheslav/darcula-darker">On GitHub</a>
+      <br/><br/><br/>
+
+      <img src="https://raw.githubusercontent.com/vecheslav/darcula-darker/master/screenshots/darculadarker-main-window.png" border="0" width="700" alt="Main window screenshot">
+      <br/>
+      <img src="https://raw.githubusercontent.com/vecheslav/darcula-darker/master/screenshots/darculadarker-settings.png" border="0" width="700" alt="Settings screenshot">
     ]]></description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
