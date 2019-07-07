@@ -5,7 +5,7 @@
   <vendor email="vecheslavdruzhbin@gmail.com">Vecheslav Druzhbin</vendor>
 
   <description><![CDATA[
-      A light theme in dark tones based on Darcula. For version 2019.1 and above.
+      A dark theme based on Darcula, but with more contrasting tones. For JetBrains IDEs, version 2019.1 and above.
     ]]></description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
