@@ -1,6 +1,6 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
-  <name>Darcula Darker</name>
+  <id>com.vecheslav.darculaDarkerTheme</id>
+  <name>Darcula Darker Theme</name>
   <version>1.0</version>
   <vendor email="vecheslavdruzhbin@gmail.com">Vecheslav Druzhbin</vendor>
 
