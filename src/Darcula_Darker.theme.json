@@ -38,9 +38,22 @@
       "FileHistory.Commit.selectedBranchBackground": "#2E3D5A"
     },
 
+    "DefaultTabs": {
+      "hoverBackground": "#e6e7ff0f"
+    },
+
+    "SearchEverywhere": {
+      "Tab": {
+        "selectedForeground": "#CFD2D5",
+        "selectedBackground": "#393a3d"
+      }
+    },
+
     "EditorTabs": {
       "selectedBackground": "#37383b",
-      "inactiveMaskColor": "#00000033"
+      "inactiveMaskColor": "#00000033",
+      "underlinedTabBackground": "#2f3032",
+      "underlinedTabForeground": "#CFD2D5"
     }
   }
 }
