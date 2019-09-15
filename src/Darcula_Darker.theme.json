@@ -39,7 +39,9 @@
     },
 
     "DefaultTabs": {
-      "hoverBackground": "#e6e7ff0f"
+      "hoverBackground": "#00000000",
+      "underlineColor": "#2f65ca",
+      "underlinedTabBackground": "#393a3d"
     },
 
     "SearchEverywhere": {
@@ -54,6 +56,10 @@
       "inactiveMaskColor": "#00000033",
       "underlinedTabBackground": "#393a3d",
       "underlinedTabForeground": "#CFD2D5"
+    },
+
+    "ToolWindow.HeaderTab": {
+      "underlinedTabBackground": "#393a3d"
     }
   }
 }
